@@ -3,8 +3,8 @@
   "displayName": "vscode-clj-zprint",
   "description": "Wrapper for zprint to format Clojure code.",
   "version": "0.0.10",
-  "publisher": "rflagreca",
-  "repository": "https://github.com/rflagreca/vscode-clj-zprint",
+  "publisher": "s-faychatelard",
+  "repository": "https://github.com/s-faychatelard/vscode-clj-zprint",
   "license": "GPL-3.0-or-later",
   "engines": {
     "vscode": "^1.51.0"
